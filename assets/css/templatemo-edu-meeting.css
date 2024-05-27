@@ -2504,11 +2504,15 @@ responsive
 }
 
 .contact-map {
-  background:#1842b6;
+  background:#322783;
 }
 
 .contact-form {
-  background: #1842b6;
+  background: #322783;
+}
+
+.newBg{
+  background: #F5C467;
 }
 
 /*** Contact End ***/
