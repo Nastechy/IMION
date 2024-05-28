@@ -1551,7 +1551,7 @@ section.meetings-page .filters {
 
 section.meetings-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #322783;
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1565,7 +1565,7 @@ section.meetings-page .filters li {
 
 section.meetings-page .filters ul li.active,
 section.meetings-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #322783;
   color: #fff;
 }
 
@@ -1606,7 +1606,7 @@ section.meetings-page .main-button-red a {
 
 section.meetings-page .pagination ul li.active a,
 section.meetings-page .pagination ul li a:hover {
-  background-color: #a12c2f;
+  background-color: #322783;
   color: #fff;
 }
 
